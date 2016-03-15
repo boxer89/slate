@@ -2,7 +2,7 @@
 title: Payconiq Partner API Specification
 
 language_tabs:
-  - shell
+  - shellfdsafsaf
   - javascript
   - php
 
